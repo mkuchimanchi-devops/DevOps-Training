@@ -73,3 +73,4 @@ Week 4:
   - DevOps Best Practices 
   - Octopus Deploy (CD Tool)
   - Next Steps
+  - Q & A
