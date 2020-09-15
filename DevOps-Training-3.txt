@@ -1,1 +1,2 @@
 Advanced training for devops 
+staging area
