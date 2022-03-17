@@ -33,6 +33,7 @@ Week 2:
     - Setup a docker platform for deploying community containers
     - Docker Hub account        
     - Docker workflow and deploy docker images 
+    - Docker demo
     - Docker distributed Deployments
     - Assignments
 5. Working with Kubernetes 
