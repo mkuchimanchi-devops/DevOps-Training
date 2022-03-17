@@ -26,6 +26,7 @@ Week 1:
     - Create a release Pipelne (CD)
     - End to end release pipeline and auto triggers
     - Assignments
+    - Reverse KT
 
 Week 2:
 -----------
