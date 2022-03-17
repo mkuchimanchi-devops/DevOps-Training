@@ -1,0 +1,79 @@
+Week 1:
+------------
+1. Repository Management with GitHub
+    - Create a github account
+    - Create a Github repository
+    - Working with Git repository
+    - Manage Git Repositories
+    - Pull requests, branching/merging strategy
+    - Demo the branching /PR
+    - Assignments
+
+2. CI/CD with Jenkins 
+    - Download, Install and setup a jenkins platform
+    - Manage Jenkins Master
+    - Securing Jenkins
+    - Manage Plug-ins
+    - Create /Manage Jobs 
+    - Create a end to end CI/CD Pipeline (Jenkinsfile)
+    - Master/Slave setup
+    - Assignments
+
+3. CI/CD with Azure DevOps
+    - Create a azure devops subscription
+    - Create classic build pipelines (CI)
+    - Create YAML pipelines (Pipeline as code - CI)
+    - Create a release Pipelne (CD)
+    - End to end release pipeline and auto triggers
+    - Assignments
+    - Reverse KT
+
+Week 2:
+-----------
+4. Working with Docker
+    - Install Docker
+    - Setup a docker platform for deploying community containers
+    - Docker Hub account        
+    - Docker workflow and deploy docker images 
+    - Docker demo
+    - Docker distributed Deployments
+    - Assignments
+5. Working with Kubernetes 
+    - Setup Kubernetes in local
+    - Create AWS/Azure Kubernetes cluster and node groups
+    - Deploy docker containers using kubernetes manifest files
+    - Working with Kubernetes pods for troubleshooting with Kubectl CLI
+    - Integrate Kubernetes/Docker workflow with existing CI/CD setup
+    - Assignments
+
+Week 3
+------------
+6. Working with Terraform
+   - Download / Install terraform
+   - Setup terraform
+   - Working with terraform templates
+   - Terraform workflow 
+   - Create a terraform template and deploy using powershell/Linux shell on Azure/AWS
+   - Integrate Terraform with CI/CD
+   - Assignments
+    
+7. Continous Testing:CT (Shift Left)
+   - Various types of Testing 
+   - Test Automation with Jenkins/Azure Devops + Selenium 
+   - Create an end to end Pipeline (CI/CD/CD) in Jenkins /Azure DevOps
+   - Integrate Code review / unit tests/ security testing with DevOps Pipeline
+   - Assignments
+
+Week 4:
+------------
+8. Continuous Monitoring
+    - Setup Splunk
+    - Setup a monitoring tool (Dynatrace/Nagios) 
+    - Create Monitoring alerts and integrate alerting with SMTP/Teams/Slack
+9. Revision & Clarifications
+  - Existing setup for any live project (CI/CD/CT/IAC/Monitoring)
+  - Any questions/clarifications
+  - DevOps Best Practices 
+  - Octopus Deploy (CD Tool)
+  - Next Steps
+  - Q & A
