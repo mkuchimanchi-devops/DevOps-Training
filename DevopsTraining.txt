@@ -6,6 +6,7 @@ Week 1:
     - Working with Git repository
     - Manage Git Repositories
     - Pull requests, branching/merging strategy
+    - Demo the branching /PR
     - Assignments
 
 2. CI/CD with Jenkins 
